@@ -79,7 +79,7 @@ graph LR
 
 ## 🎓 Education & Certifications
 
-- 🎓 **Computer Science** - PJATK Warsaw (2024-Present)
+- 🎓 **Computer Science** - PJATK Warsaw (2025-Present)
 - 🎓 **Master of Architecture** - Rzeszów University of Technology (2016-2021)
 - 📊 **Maven Analytics** - Data Analysis Certification (In Progress)
 

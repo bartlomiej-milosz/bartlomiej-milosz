@@ -31,16 +31,6 @@ I'm combining **4+ years of systematic problem-solving** from architecture with 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div>
-
-![Bartłomiej's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiej-milosz&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bartlomiej-milosz&layout=compact&theme=default&hide_border=true)
-
-</div>
-
 ## 🚀 Featured Projects
 
 ### [📊 Student Enrollment System](https://github.com/bartlomiejMilosz/student-enrollment-app)

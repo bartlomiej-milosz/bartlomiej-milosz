@@ -33,11 +33,11 @@ I'm combining **4+ years of systematic problem-solving** from architecture with 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
-![Bartłomiej's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiejMilosz&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Bartłomiej's GitHub stats](https://github-readme-stats.vercel.app/api?username=bartlomiej-milosz&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bartlomiejMilosz&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bartlomiej-milosz&layout=compact&theme=default&hide_border=true)
 
 </div>
 

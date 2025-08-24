@@ -1,29 +1,30 @@
-# Hello, I'm Bartłomiej 👋
+# Hello, I'm Bartek 👋
 
-**Computer Science Student @ PJATK | Aspiring Data Analyst**  
+**Computer Science Student @ PJATK | Junior Data Analyst | BI Developer**
 
-After 4+ years designing spaces, I discovered my passion for data analysis during a €500K client project. They wanted ROI analysis, space utilization metrics, and material cost comparisons. I found myself more engaged by the Excel models and data visualization than the actual designs.
+After 4+ years helping families make their **biggest investment decisions** through architectural design, I realized I was spending as much time analyzing data as designing spaces. 
 
-Now combining business consulting experience with technical learning in Excel, Python & SQL, and data analysis.
+**Detailed budget spreadsheets tracking hundreds of cost variables. Material comparison matrices weighing durability, cost, and aesthetics across dozens of options.** I found myself more excited about the analytical work than the design itself.
+
+Now combining business consulting experience with technical learning to help organizations make better data-driven decisions.
 
 *Seeking junior data analyst roles where business understanding meets technical execution.*
 
 ## Tech Stack
 
-### Data Analysis
+### Data Analysis & Business Intelligence
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-### Development Experience
+### Additional Technical Experience
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-### Tools & Technologies
+### Tools & Infrastructure
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -36,12 +37,15 @@ Now combining business consulting experience with technical learning in Excel, P
 
 - Computer Science at PJATK Warsaw
 - Maven Analytics Excel Specialist (90h certification)
+- Data analysis portfolio projects
 
 **Next Steps** 
-
 - Microsoft Excel Expert (MO-211) certification
-- Python data analysis portfolio (December 2025)
+- Python data analysis specialization
+- Business intelligence projects
 
 ---
 
-*"Turning complex requirements into clear insights"*
+*"Ready to bring systematic thinking to your data challenges."*
+
+**Let's connect:** [Personal Website](https://bartlomiej-milosz.github.io) | [LinkedIn](https://linkedin.com/in/bartlomiej-milosz)

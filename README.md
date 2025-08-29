@@ -4,8 +4,6 @@
 
 After 4+ years helping families make their **biggest investment decisions** through architectural design, I realized I was spending as much time analyzing data as designing spaces. 
 
-**Detailed budget spreadsheets tracking hundreds of cost variables. Material comparison matrices weighing durability, cost, and aesthetics across dozens of options.** I found myself more excited about the analytical work than the design itself.
-
 Now combining business consulting experience with technical learning to help organizations make better data-driven decisions.
 
 *Seeking junior data analyst roles where business understanding meets technical execution.*

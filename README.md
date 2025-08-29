@@ -6,8 +6,6 @@ After 4+ years helping families make their **biggest investment decisions** thro
 
 Now combining business consulting experience with technical learning to help organizations make better data-driven decisions.
 
-*Seeking junior data analyst roles where business understanding meets technical execution.*
-
 ## Tech Stack
 
 ### Data Analysis & Business Intelligence
@@ -35,13 +33,6 @@ Now combining business consulting experience with technical learning to help org
 - Maven Analytics Excel Specialist (90h certification)
 - Data analysis portfolio projects
 
-**Next Steps** 
-- Microsoft Excel Expert (MO-211) certification
-- Python data analysis specialization
-- Business intelligence projects
-
 ---
 
-*"Ready to bring systematic thinking to your data challenges."*
-
-**Let's connect:** [Personal Website](https://bartlomiej-milosz.github.io) | [LinkedIn](https://linkedin.com/in/bartlomiej-milosz)
+*"Looking forward to connecting with fellow professionals and exploring how my analytical background can contribute to your team."*

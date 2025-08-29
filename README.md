@@ -23,4 +23,4 @@ _Now combining business consulting experience with technical learning to help or
 **Selected Projects**
 
 - 📍 [Warsaw Property Market Analysis](https://github.com/bartlomiej-milosz/warsaw-property-analysis.git) – Exploratory analysis of housing data using Excel & Python
-- 📍 [Java CRUD API Service](#) – RESTful backend built with Java & Spring, showcasing core programming concepts
+- 📍 [Java CRUD API Service](https://github.com/bartlomiej-milosz/student-enrolment-app.git) – RESTful backend built with Java & Spring, showcasing core programming concepts

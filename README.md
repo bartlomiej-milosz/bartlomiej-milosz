@@ -1,38 +1,26 @@
-# Hello, I'm Bartek 👋
+## Hello, I'm Bartek 👋
 
-**Computer Science Student @ PJATK | Junior Data Analyst | BI Developer**
+**Data Analyst | Computer Science Student @ PJATK Warsaw**
 
-After 4+ years helping families make their **biggest investment decisions** through architectural design, I realized I was spending as much time analyzing data as designing spaces. 
+After 4+ years **helping families make their biggest investment decisions** through architectural design, I realized I was spending as much time analyzing data as designing spaces.
 
-Now combining business consulting experience with technical learning to help organizations make better data-driven decisions.
+_Now combining business consulting experience with technical learning to help organizations make better data-driven decisions._
 
-## Tech Stack
+---
 
-### Data Analysis & Business Intelligence
+**Current stack & learning focus**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-### Additional Technical Experience
+**Also familiar with:** Java · Git · Docker · Linux
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-
-### Tools & Infrastructure
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-## Currently Building
-
-**In Progress**
-
-- Computer Science at PJATK Warsaw
-- Maven Analytics Excel Specialist (90h certification)
-- Data analysis portfolio projects
+📚 _Projects in data analysis | CS @ PJATK | Excel Specialist (Maven Analytics)_
 
 ---
 
-*"Looking forward to connecting with fellow professionals and exploring how my analytical background can contribute to your team."*
+**Selected Projects**
+
+- 📍 [Warsaw Property Market Analysis](#) – Exploratory analysis of housing data using Excel & Python
+- 📍 [Java CRUD API Service](#) – RESTful backend built with Java & Spring, showcasing core programming concepts

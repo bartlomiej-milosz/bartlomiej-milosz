@@ -1,10 +1,10 @@
 ## Hello, I'm Bartek 👋
 
-**Data Analyst | Computer Science Student @ PJATK Warsaw**
+**Junior Software Developer** | 4+ Years Stakeholder Communication Experience
 
-After 4+ years **helping families make their biggest investment decisions** through architectural design, I realized I was spending as much time analyzing data as designing spaces.
+After 4+ years helping families make their biggest investment decisions through architectural design, **I started experimenting with programming as a hobby.** After several months of coding projects, I realized I wanted to pursue this path seriously and enrolled in **Computer Science studies at PJATK.**
 
-_Now combining business consulting experience with technical learning to help organizations make better data-driven decisions._
+_Now I'm combining my proven problem-solving and stakeholder communication skills from architecture with software development to build reliable, scalable systems._
 
 ---
 

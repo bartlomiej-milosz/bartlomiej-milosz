@@ -7,16 +7,18 @@ After 4+ years helping families make their biggest investment decisions through 
 _Now I'm combining my proven problem-solving and stakeholder communication skills from architecture with software development to build reliable, scalable systems._
 
 ---
-
 **Current stack & learning focus**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Also familiar with:** Java · Git · Docker · Linux
+**Also familiar with:** HTML/CSS · Linux/Unix · Vim · REST API design
 
-📚 _Projects in data analysis | CS @ PJATK | Excel Specialist (Maven Analytics)_
+📚 *Backend development focus | CS @ PJATK | Architecture background*
 
 ---
 

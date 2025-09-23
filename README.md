@@ -27,3 +27,9 @@ _📚 Backend development focus | CS @ PJATK | Architecture background_
 
 - 📍 [Student Enrolment Management System](https://github.com/bartlomiej-milosz/student-enrolment-app.git) – RESTful API with 12+ endpoints handling student enrollment, book inventory, and rental operations using Java, Spring Boot, and Docker
 - 📍 [Real Estate Data Processing System](https://github.com/bartlomiej-milosz/warsaw-property-analysis.git) – Automated data processing pipeline scraping and processing 14,000+ property records with multithreaded architecture and comprehensive data validation
+
+---
+
+**Beyond the code**
+
+I'm passionate about developer tooling and automation. I maintain my own [dotfiles]([link](https://github.com/bartlomiej-milosz/dotfiles.git)) and enjoy writing scripts to streamline workflows. This hands-on approach to tooling helps me understand systems at a deeper level.

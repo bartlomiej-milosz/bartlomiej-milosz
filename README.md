@@ -33,3 +33,9 @@ _📚 Backend development focus | CS @ PJATK | Architecture background_
 **Beyond the code**
 
 I'm passionate about developer tooling and automation. I maintain my own [dotfiles]([link](https://github.com/bartlomiej-milosz/dotfiles.git)) and enjoy writing scripts to streamline workflows. This hands-on approach to tooling helps me understand systems at a deeper level.
+
+---
+
+**Leetcode Stats**
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/bartlomiej-milosz?theme=dark&font=source_code_pro&ext=heatmap&cache=3600)

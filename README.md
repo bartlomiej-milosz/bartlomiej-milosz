@@ -1,4 +1,6 @@
-## 4 years of technical project delivery. Now building backend with Java and Spring
+### About
+
+Background in technical project delivery - 4 years of translating client requirements into specs, managing timelines, coordinating teams. Now studying CS at PJATK and building backend projects with Java and Spring. Looking for junior backend opportunities in Warsaw.
 
 ---
 
@@ -7,16 +9,3 @@
 ```java
 Java · Spring Boot · Spring Data JPA · REST APIs · PostgreSQL · Docker · Git
 ```
-
----
-
-### Projects
-
-**[Student Enrolment Management System](https://github.com/bartlomiej-milosz/student-enrolment-app)**  
-REST API with 12+ endpoints for student enrollment, book inventory, and rentals. Dockerized deployment.  
-
----
-
-### Contact
-
-[LinkedIn](https://www.linkedin.com/in/bartlomiejmilosz) · Warsaw, Poland

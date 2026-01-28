@@ -1,10 +1,11 @@
-## Java | Spring Boot | Backend | 4+ Years Client-Facing Project Delivery
+### Java | Spring Boot | Backend
 
-Before tech: 4 years delivering residential projects as an architect - translating client requirements into technical specs, managing timelines, coordinating teams. Now applying the same structured approach to code.
+CS student at PJATK with a background in technical project delivery. Building backend projects with Java and Spring.
 
 ---
 
 ### Tech Stack
+
 ```
 Java · Spring Boot · Spring Data JPA · REST APIs · PostgreSQL · Docker · Git
 ```

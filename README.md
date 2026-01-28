@@ -6,6 +6,6 @@ Background in technical project delivery - 4 years of translating client require
 
 ### Tech Stack
 
-```java
+```
 Java · Spring Boot · Spring Data JPA · REST APIs · PostgreSQL · Docker · Git
 ```

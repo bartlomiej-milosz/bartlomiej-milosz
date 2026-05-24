@@ -1,13 +1,33 @@
-### About
+# hi, I'm Bartek
 
-Background in technical project delivery - 4 years of translating client requirements into specs, managing timelines, coordinating teams. Now studying CS at PJATK and building backend projects with Java and Spring. Looking for junior backend opportunities in Warsaw.
+CS student at PJATK Warsaw. Before that — 5 years of residential architecture:
+30+ projects delivered end-to-end, requirements to handover.
+
+I switched to software to understand how it works — not just use it.
+So I'm building that understanding from the socket up.
 
 ---
 
-### Tech Stack
+## Projects
 
-```markdown
-Backend & DB:      Java · Spring Boot · REST APIs · PostgreSQL
-Tools & Testing:   Docker · Git · Maven · Gradle · JUnit 5 · Mockito
-Other:	           Linux · Bash · Python · AI Coding Assistants · English (B2)
+**[Mini Network Tools](link)** `Python · raw sockets · pytest`  
+TCP server → HTTP server → load balancer → forward proxy. No frameworks.  
+Python as a thin layer — the focus is on protocols and how the abstractions are actually built.
+
+**[Mini Spring Context](link)** `Java · Reflection API · JUnit 5`  
+Custom DI container: bean instantiation, singleton scope, `@Autowired` resolution,  
+circular dependency detection. Written to understand what Spring does — not to replace it.
+
+---
+
+## Stack
+
+```text
+Comfortable:   Python · Bash · Linux · Docker · Git
+Know well:     Java · Spring Boot · PostgreSQL
+Learning:      Go
 ```
+
+---
+
+Warsaw · Open to junior backend and infrastructure roles

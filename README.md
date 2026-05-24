@@ -1,7 +1,5 @@
-# hi, I'm Bartek
-
 CS student at PJATK Warsaw. Before that — 5 years of residential architecture:
-30+ projects delivered end-to-end, requirements to handover.
+20+ projects delivered end-to-end, requirements to handover.
 
 I switched to software to understand how it works — not just use it.
 So I'm building that understanding from the socket up.
@@ -25,7 +23,7 @@ circular dependency detection. Written to understand what Spring does — not to
 ```text
 Comfortable:   Python · Bash · Linux · Docker · Git
 Know well:     Java · Spring Boot · PostgreSQL
-Learning:      Go
+Building now:  TCP/HTTP layer tooling from scratch
 ```
 
 ---

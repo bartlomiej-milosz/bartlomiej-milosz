@@ -1,6 +1,4 @@
-# Bartłomiej Miłosz
-
-**Junior Software Developer** — Python · Bash · Backend & Data Processing
+**Junior Software Developer — Python · Bash · Backend & Data Processing**
 
 Computer Science student at PJATK focused on backend systems, Python, and Linux
 infrastructure. I like building core components from scratch — TCP/HTTP servers,

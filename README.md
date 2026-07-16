@@ -1,4 +1,4 @@
-**Junior Software Developer — Python · Bash · Backend & Data Processing**
+**Junior Software Engineer — Python · Systems · Backend**
 
 Computer Science student at PJATK focused on backend systems, Python, and Linux
 infrastructure. I like building core components from scratch — TCP/HTTP servers,
@@ -7,8 +7,7 @@ implementation level instead of only wiring frameworks together. Five years of
 prior experience as a residential architect, now part-time while I move into
 software.
 
-Currently building out a self-hosted homelab, working toward LFCS, and learning
-FastAPI.
+Currently building out a self-hosted homelab and working toward LFCS.
 
 ---
 
@@ -17,13 +16,7 @@ FastAPI.
 ### [Raw Network Stack](https://github.com/bartlomiej-milosz/raw-network-stack)
 `Python · raw TCP sockets · Docker Compose · GitHub Actions`
 
-Dependency-free, from-scratch network stack — four layers, each extending
-the last: `TCPServer` (raw sockets), `HTTPServer` (request parsing,
-routing), `ProxyServer` (reverse proxy via `select()` I/O multiplexing),
-and `LoadBalancerServer` (thread-safe round-robin). Full 5-container
-topology (3 backends + load balancer + proxy) orchestrated with Docker
-Compose; pytest suite covers concurrency and connection-refusal edge
-cases; CI runs on every push via GitHub Actions.
+Dependency-free, from-scratch network stack — four layers, each extending the last: `TCPServer` (raw sockets), `HTTPServer` (request parsing, routing), `ProxyServer` (reverse proxy via `select()` I/O multiplexing), and `LoadBalancerServer` (thread-safe round-robin). Full 5-container topology (3 backends + load balancer + proxy) orchestrated with Docker Compose; pytest suite covers concurrency and connection refusal edge cases; CI runs on every push via GitHub Actions.
 
 ### [Real Estate Data Processing System](https://github.com/bartlomiej-milosz/real-estate-data-processing-system)
 `Python · asyncio · httpx · SQLAlchemy · pandas · pydantic · Docker · pytest`

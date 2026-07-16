@@ -1,6 +1,6 @@
-**Junior Software Engineer - Python · Backend & Infrastructure**
+**Junior Backend & Infrastructure Developer**
 
-Computer Science student at PJATK focused on backend systems, Python, and Linux infrastructure. I like building core components from scratch - TCP/HTTP servers, request parsers, a DI container - to understand how things work at the implementation level instead of only wiring frameworks together. Five years of prior experience as a residential architect, now part-time while I move into software.
+Computer Science student at PJATK focused on backend systems, Python, and Linux infrastructure. I like building core components from scratch - TCP/HTTP servers, request parsers, a DI container - to understand how things work at the implementation level instead of only wiring frameworks together. Five years of prior experience as a residential architect, bringing strong project management and analytical problem-solving skills to software engineering.
 
 Currently building out a self-hosted homelab and working toward LFCS.
 
@@ -30,9 +30,9 @@ Custom dependency-injection container replicating Spring's IoC - bean instantiat
 | | |
 |---|---|
 | **Languages** | Python · Bash · Java |
-| **Backend & Data** | REST APIs · asyncio · pandas · FastAPI *(learning)* |
-| **Tooling & Testing** | pytest · Docker · Git · GitHub Actions · uv · ruff |
-| **Linux & Systems** | Linux (daily driver) · Bash automation · self-hosted homelab · networking fundamentals (UDP / TCP / HTTP) |
+| **Backend & Data** | REST APIs · TCP/HTTP Sockets · SQL (basics) |
+| **Tooling & Testing** | pytest · Docker (basics) · Git · CI/CD fundamentals (GitHub Actions) · uv · ruff |
+| **Linux & Systems** | Linux (daily driver) · Bash automation · self-hosted homelab · networking fundamentals (UDP / TCP / HTTP) · LFCS (in progress) |
 
 ---
 

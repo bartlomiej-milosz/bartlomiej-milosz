@@ -26,7 +26,7 @@ kept separate as an audit trail), exposed through a typer CLI
 (`scrape` / `clean` / `export`). Dockerised, with a pytest suite and CI on
 GitHub Actions.
 
-### [Mini Network Tools Series](https://github.com/bartlomiej-milosz/mini-http-server) *(in progress)*
+### [Raw Network Stack](https://github.com/bartlomiej-milosz/mini-http-server)
 `Python · raw TCP sockets · pytest`
 
 From-scratch implementations of foundational backend infrastructure, to

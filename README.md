@@ -1,4 +1,4 @@
-**Junior Software Engineer — Python · Infrastructure · Backend**
+**Junior Software Engineer — Python · Backend**
 
 Computer Science student at PJATK focused on backend systems, Python, and Linux infrastructure. I like building core components from scratch — TCP/HTTP servers, request parsers, a DI container — to understand how things work at the implementation level instead of only wiring frameworks together. Five years of prior experience as a residential architect, now part-time while I move into software.
 

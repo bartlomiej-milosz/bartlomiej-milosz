@@ -1,6 +1,6 @@
-**Junior Software Engineer — Python · Backend & Infrastructure**
+**Junior Software Engineer - Python · Backend & Infrastructure**
 
-Computer Science student at PJATK focused on backend systems, Python, and Linux infrastructure. I like building core components from scratch — TCP/HTTP servers, request parsers, a DI container — to understand how things work at the implementation level instead of only wiring frameworks together. Five years of prior experience as a residential architect, now part-time while I move into software.
+Computer Science student at PJATK focused on backend systems, Python, and Linux infrastructure. I like building core components from scratch - TCP/HTTP servers, request parsers, a DI container — to understand how things work at the implementation level instead of only wiring frameworks together. Five years of prior experience as a residential architect, now part-time while I move into software.
 
 Currently building out a self-hosted homelab and working toward LFCS.
 
@@ -21,7 +21,7 @@ Async pipeline that scrapes, stores, cleans, and exports real-estate listings ac
 ### [Mini Spring Core](https://github.com/bartlomiej-milosz/mini-spring-core)
 `Java · Reflection API · JUnit 5 · Maven`
 
-Custom dependency-injection container replicating Spring's IoC — bean instantiation, singleton scope, `@Autowired` resolution, circular-dependency detection — with a JUnit 5 suite covering deep dependency chains. Built to understand framework internals from the ground up.
+Custom dependency-injection container replicating Spring's IoC - bean instantiation, singleton scope, `@Autowired` resolution, circular-dependency detection - with a JUnit 5 suite covering deep dependency chains. Built to understand framework internals from the ground up.
 
 ---
 

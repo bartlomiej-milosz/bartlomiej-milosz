@@ -14,6 +14,17 @@ FastAPI.
 
 ## Featured projects
 
+### [Raw Network Stack](https://github.com/bartlomiej-milosz/raw-network-stack)
+`Python · raw TCP sockets · Docker Compose · GitHub Actions`
+
+Dependency-free, from-scratch network stack — four layers, each extending
+the last: `TCPServer` (raw sockets), `HTTPServer` (request parsing,
+routing), `ProxyServer` (reverse proxy via `select()` I/O multiplexing),
+and `LoadBalancerServer` (thread-safe round-robin). Full 5-container
+topology (3 backends + load balancer + proxy) orchestrated with Docker
+Compose; pytest suite covers concurrency and connection-refusal edge
+cases; CI runs on every push via GitHub Actions.
+
 ### [Real Estate Data Processing System](https://github.com/bartlomiej-milosz/real-estate-data-processing-system)
 `Python · asyncio · httpx · SQLAlchemy · pandas · pydantic · Docker · pytest`
 
@@ -25,16 +36,6 @@ Vectorised pandas cleaning into frozen pydantic v2 models (raw and typed schemas
 kept separate as an audit trail), exposed through a typer CLI
 (`scrape` / `clean` / `export`). Dockerised, with a pytest suite and CI on
 GitHub Actions.
-
-### [Raw Network Stack](https://github.com/bartlomiej-milosz/mini-http-server)
-`Python · raw TCP sockets · pytest`
-
-From-scratch implementations of foundational backend infrastructure, to
-internalise how networking and data transfer work under the hood. Python is used
-as a thin language layer to keep focus on protocols and architecture.
-**Done:** TCP server (abstract base class) and HTTP server (request parser,
-response builder, mocked-socket test suite with pytest / pytest-mock).
-**Planned:** load balancer, forward proxy.
 
 ### [Mini Spring Core](https://github.com/bartlomiej-milosz/mini-spring-core)
 `Java · Reflection API · JUnit 5 · Maven`

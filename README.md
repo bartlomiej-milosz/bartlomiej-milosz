@@ -1,11 +1,6 @@
 **Junior Software Engineer — Python · Systems · Backend**
 
-Computer Science student at PJATK focused on backend systems, Python, and Linux
-infrastructure. I like building core components from scratch — TCP/HTTP servers,
-request parsers, a DI container — to understand how things work at the
-implementation level instead of only wiring frameworks together. Five years of
-prior experience as a residential architect, now part-time while I move into
-software.
+Computer Science student at PJATK focused on backend systems, Python, and Linux infrastructure. I like building core components from scratch — TCP/HTTP servers, request parsers, a DI container — to understand how things work at the implementation level instead of only wiring frameworks together. Five years of prior experience as a residential architect, now part-time while I move into software.
 
 Currently building out a self-hosted homelab and working toward LFCS.
 
@@ -21,22 +16,12 @@ Dependency-free, from-scratch network stack — four layers, each extending the 
 ### [Real Estate Data Processing System](https://github.com/bartlomiej-milosz/real-estate-data-processing-system)
 `Python · asyncio · httpx · SQLAlchemy · pandas · pydantic · Docker · pytest`
 
-Async pipeline that scrapes, stores, cleans, and exports real-estate listings
-across all 18 Warsaw districts. Async httpx client with bounded concurrency
-(`asyncio.Semaphore`) and tenacity retries; SQLite via SQLAlchemy 2 as the single
-source of truth, with idempotent, resumable upserts keyed on listing id.
-Vectorised pandas cleaning into frozen pydantic v2 models (raw and typed schemas
-kept separate as an audit trail), exposed through a typer CLI
-(`scrape` / `clean` / `export`). Dockerised, with a pytest suite and CI on
-GitHub Actions.
+Async pipeline that scrapes, stores, cleans, and exports real-estate listings across all 18 Warsaw districts. Async httpx client with bounded concurrency (`asyncio.Semaphore`) and tenacity retries; SQLite via SQLAlchemy 2 as the single source of truth, with idempotent, resumable upserts keyed on listing id. Vectorised pandas cleaning into frozen pydantic v2 models (raw and typed schemas kept separate as an audit trail), exposed through a typer CLI (`scrape` / `clean` / `export`). Dockerised, with a pytest suite and CI on GitHub Actions.
 
 ### [Mini Spring Core](https://github.com/bartlomiej-milosz/mini-spring-core)
 `Java · Reflection API · JUnit 5 · Maven`
 
-Custom dependency-injection container replicating Spring's IoC — bean
-instantiation, singleton scope, `@Autowired` resolution, circular-dependency
-detection — with a JUnit 5 suite covering deep dependency chains. Built to
-understand framework internals from the ground up.
+Custom dependency-injection container replicating Spring's IoC — bean instantiation, singleton scope, `@Autowired` resolution, circular-dependency detection — with a JUnit 5 suite covering deep dependency chains. Built to understand framework internals from the ground up.
 
 ---
 

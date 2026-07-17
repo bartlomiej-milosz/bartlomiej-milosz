@@ -13,11 +13,6 @@ Currently building out a self-hosted homelab and working toward LFCS.
 
 Dependency-free, from-scratch network stack - four layers, each extending the last: `TCPServer` (raw sockets), `HTTPServer` (request parsing, routing), `ProxyServer` (reverse proxy via `select()` I/O multiplexing), and `LoadBalancerServer` (thread-safe round-robin). Full 5-container topology (3 backends + load balancer + proxy) orchestrated with Docker Compose; pytest suite covers concurrency and connection refusal edge cases; CI runs on every push via GitHub Actions.
 
-### [Real Estate Data Processing System](https://github.com/bartlomiej-milosz/real-estate-data-processing-system)
-`Python · asyncio · httpx · SQLAlchemy · pandas · pydantic · Docker · pytest`
-
-Async pipeline that scrapes, stores, cleans, and exports real-estate listings across all 18 Warsaw districts. Async httpx client with bounded concurrency (`asyncio.Semaphore`) and tenacity retries; SQLite via SQLAlchemy 2 as the single source of truth, with idempotent, resumable upserts keyed on listing id. Vectorised pandas cleaning into frozen pydantic v2 models (raw and typed schemas kept separate as an audit trail), exposed through a typer CLI (`scrape` / `clean` / `export`). Dockerised, with a pytest suite and CI on GitHub Actions.
-
 ### [Mini Spring Core](https://github.com/bartlomiej-milosz/mini-spring-core)
 `Java · Reflection API · JUnit 5 · Maven`
 

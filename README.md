@@ -11,6 +11,8 @@ I'm in the third semester of a part-time bachelor's programme. My background inc
 
 These projects demonstrate object-oriented programming, dependency injection, socket programming, thread synchronization, and testing. I also have basic knowledge of SQL, Linux, and Git.
 
+**[Dotfiles](https://github.com/bartlomiej-milosz/dotfiles)** — My personal macOS and Ubuntu setup with Zsh, Ghostty, Starship, and GNU Stow. Includes installation scripts and automated checks for shell behavior and configuration linking.
+
 I'm looking for my first junior Java/backend or software engineering role, or an internship.
 
 [LinkedIn](https://www.linkedin.com/in/bartlomiej-milosz/)

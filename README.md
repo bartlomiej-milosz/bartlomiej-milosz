@@ -1,8 +1,8 @@
 # Bartłomiej Miłosz
 
-I'm a Computer Science student at PJATK in Warsaw, preparing for my first role in Java backend development or software engineering.
+I'm a part-time Computer Science student at PJATK in Warsaw, focusing on Java backend development and software engineering.
 
-I'm in the third semester of a part-time bachelor's programme. My background includes several years in interior architecture and a master's degree in that field. Java is my main focus; I'm also interested in networking, databases, and how systems work.
+My background includes several years of architectural design work and a master's degree in Architecture and Urban Planning. I'm also interested in networking, databases, and how systems work.
 
 ## Selected projects
 

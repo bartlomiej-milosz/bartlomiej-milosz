@@ -1,36 +1,16 @@
-**Junior Backend & Infrastructure Developer**
+# Bartłomiej Miłosz
 
-Computer Science student at PJATK focused on backend systems, Python, and Linux infrastructure. I like building core components from scratch - TCP/HTTP servers, request parsers, a DI container - to understand how things work at the implementation level instead of only wiring frameworks together. Five years of prior experience as a residential architect, bringing strong project management and analytical problem-solving skills to software engineering.
+I'm a Computer Science student at PJATK in Warsaw, preparing for my first role in Java backend development or software engineering.
 
-Currently building out a self-hosted homelab and working toward LFCS.
+I'm in the third semester of a part-time bachelor's programme. My background includes several years in interior architecture and a master's degree in that field. Java is my main focus; I'm also interested in networking, databases, and how systems work.
 
----
+## Selected projects
 
-## Featured projects
+- [Java Dependency Injection Container](https://github.com/bartlomiej-milosz/java-dependency-injection-container) — an educational container in plain Java with explicit type bindings, reflection-based constructor injection, instance caching, and cycle detection. JUnit tests cover configuration errors and failure recovery; builds use the Maven Wrapper.
+- [Python TCP Load Balancer](https://github.com/bartlomiej-milosz/python-tcp-load-balancer) — an educational load balancer that selects a backend once per TCP connection using round robin. It forwards bytes in both directions, supports half-close and timeouts, and includes tests with real sockets and a Docker Compose demo.
 
-### [Raw Network Stack](https://github.com/bartlomiej-milosz/raw-network-stack)
-`Python · raw TCP sockets · pytest · Docker Compose · GitHub Actions`
+These projects demonstrate object-oriented programming, dependency injection, socket programming, thread synchronization, and testing. I also have basic knowledge of SQL, Linux, and Git.
 
-Dependency-free, from-scratch network stack - four layers, each extending the last: `TCPServer` (raw sockets), `HTTPServer` (request parsing, routing), `ProxyServer` (reverse proxy via `select()` I/O multiplexing), and `LoadBalancerServer` (thread-safe round-robin). Full 5-container topology (3 backends + load balancer + proxy) orchestrated with Docker Compose; pytest suite covers concurrency and connection refusal edge cases; CI runs on every push via GitHub Actions.
+I'm looking for my first junior Java/backend or software engineering role, or an internship.
 
-### [Mini Spring Core](https://github.com/bartlomiej-milosz/mini-spring-core)
-`Java · Reflection API · JUnit 5 · Maven`
-
-Custom dependency-injection container replicating Spring's IoC - bean instantiation, singleton scope, `@Autowired` resolution, circular-dependency detection - with a JUnit 5 suite covering deep dependency chains. Built to understand framework internals from the ground up.
-
----
-
-## Tech
-
-| | |
-|---|---|
-| **Languages** | Python · Bash · Java |
-| **Backend & Data** | REST APIs · TCP/HTTP Sockets · SQL (basics) |
-| **Tooling & Testing** | pytest · Docker (basics) · Git · CI/CD fundamentals (GitHub Actions) · uv · ruff |
-| **Linux & Systems** | Linux (daily driver) · Bash automation · self-hosted homelab · networking fundamentals (UDP / TCP / HTTP) · LFCS (in progress) |
-
----
-
-## Contact
-
-[Email](mailto:bartlomiej.milosz@gmail.com) · [LinkedIn](https://www.linkedin.com/in/) · Warsaw, Poland
+[LinkedIn](https://www.linkedin.com/in/bartlomiej-milosz/)

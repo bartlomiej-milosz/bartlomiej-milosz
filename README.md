@@ -4,7 +4,7 @@
 
 I'm a Computer Science student at PJATK in Warsaw, focusing on Java backend development. I also use Python for networking projects.
 
-My background is in interior architecture, and I hold a master's degree in Architecture and Urban Planning. I'm interested in networking, databases, and how systems work.
+My background is in residential architecture, and I hold a master's degree in Architecture and Urban Planning. I'm interested in networking, databases, and how systems work.
 
 ## Selected projects
 

@@ -1,22 +1,45 @@
 # Bartłomiej Miłosz
 
-**Computer Science Student | Java & Python | Backend Development**
+**Computer Science Student | Python Backend & Linux**
 
-I'm a Computer Science student at PJATK in Warsaw, focusing on Java backend development. I also use Python for networking projects.
+I'm a Computer Science student at PJATK in Warsaw, focusing on Python backend development with FastAPI and building my Linux administration skills. I'm interested in how services work from an HTTP request and a database transaction through to deployment and troubleshooting.
 
-Alongside my studies, I work in residential architecture. My experience includes clarifying client requirements, preparing technical documentation and coordinating work with clients, designers and contractors. I hold a master's degree in Architecture and Urban Planning.
+I'm looking for my first internship or junior role in **Python backend development or DevOps**. Python is my main language for both backend development and automation.
 
 ## Selected projects
 
-- [Java Dependency Injection Container](https://github.com/bartlomiej-milosz/java-dependency-injection-container) — an educational dependency injection library in plain Java with explicit type bindings, reflection-based constructor injection, instance caching, and cycle detection. JUnit tests cover configuration errors and failure recovery; builds use the Maven Wrapper.
-- [Python TCP Load Balancer](https://github.com/bartlomiej-milosz/python-tcp-load-balancer) — an educational load balancer that selects a backend once per TCP connection using round robin. It forwards bytes in both directions, supports half-close and timeouts, and includes tests with real sockets and a Docker Compose demo.
+### [Boxing Club API](https://github.com/bartlomiej-milosz/boxing-club-api)
 
-These projects demonstrate object-oriented programming, dependency injection, socket programming, thread synchronization and testing.
+My main portfolio project: a FastAPI backend for a single boxing club, inspired by my interest in boxing. I'm developing it around training schedules, bookings, memberships and attendance, with particular attention to access control, database consistency and concurrent requests.
 
-I also have basic project experience with Spring Boot, Spring Data JPA (Jakarta Persistence) and REST APIs, alongside fundamentals of SQL and Linux. I'm interested in networking, databases and how systems work.
+The project connects my backend and operations interests: API design and PostgreSQL transactions, automated tests, reproducible environments, and the path to Linux deployment, monitoring and recovery.
 
-**[Dotfiles](https://github.com/bartlomiej-milosz/dotfiles)** — My personal macOS and Ubuntu setup with Zsh, Ghostty, Starship, and GNU Stow. Includes installation scripts and automated checks for shell behavior and configuration linking.
+**Core stack:** Python · FastAPI · Pydantic · SQLAlchemy · PostgreSQL · Alembic · pytest
 
-I'm looking for my first junior Java/backend or software engineering role, or an internship in Poland.
+### [TCP Load Balancer](https://github.com/bartlomiej-milosz/tcp-load-balancer)
+
+An educational TCP load balancer built with Python's standard library. It uses round-robin backend selection per connection and supports bidirectional forwarding, half-close and timeouts. Tests use real sockets, and a Docker Compose demo makes the network behavior observable.
+
+### [Dotfiles](https://github.com/bartlomiej-milosz/dotfiles)
+
+My macOS and Ubuntu shell setup, managed with GNU Stow. Includes installation scripts, Zsh configuration and automated checks for shell behavior and configuration linking.
+
+## Linux learning
+
+I'm studying Linux system administration with **RHCSA** as my certification goal.
+
+- **RH104 — completed.**
+- **RH124 — next course.**
+- **RH134 — planned after RH124.**
+
+Alongside Python, I have experience with Java from educational projects. My current focus is Python, backend systems and Linux.
+
+## From architecture to IT
+
+My professional background is in residential architecture, and I hold a master's degree in Architecture and Urban Planning. That work taught me to clarify client requirements, prepare precise technical documentation, coordinate with clients, designers and contractors, and communicate design changes clearly.
+
+I bring those habits to software projects: understand the problem, make decisions explicit, document the reasoning and follow through on details.
+
+Outside IT, I enjoy boxing — the connection behind my main project.
 
 [LinkedIn](https://www.linkedin.com/in/bartlomiej-milosz/)

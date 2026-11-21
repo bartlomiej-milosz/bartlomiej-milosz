@@ -1,6 +1,6 @@
 # Bartłomiej Miłosz
 
-I'm a Computer Science student at PJATK in Warsaw, focusing on backend development with Java and Spring Boot. My professional background is in architecture, where I worked with client requirements and technical documentation. I'm looking for my first backend internship or junior Java role.
+I'm a Computer Science student at PJATK in Warsaw with an interest in backend development. Java is my main language, and I also use Python. My professional background is in architecture, where I worked with client requirements and technical documentation. I'm looking for an internship or a junior role in software engineering.
 
 ## [Order & Inventory Management System](https://github.com/bartlomiej-milosz/order-inventory-system)
 

@@ -1,11 +1,15 @@
-# Bartłomiej Miłosz
+# Hi, I'm Bartek
 
-I'm a Computer Science student at PJATK in Warsaw with an interest in backend development. Java is my main language, and I also use Python. My professional background is in architecture, where I worked with client requirements and technical documentation. I'm looking for an internship or a junior role in software engineering.
-
-## [Order & Inventory Management System](https://github.com/bartlomiej-milosz/order-inventory-system)
-
-A REST API for managing B2B orders and stock across multiple warehouses. It reserves stock when an order is confirmed, deducts it on fulfillment, and releases the reservation on cancellation. PostgreSQL row locks protect stock when orders are confirmed concurrently. Integration tests with Testcontainers cover lock contention and transaction rollback.
-
-**Tech stack** · Java 25 · Spring Boot · Spring Data JPA · Spring Security · PostgreSQL · Flyway · Testcontainers · Docker Compose · GitHub Actions
+I study computer science at PJATK in Warsaw and build backend services with **Java and Spring Boot**. I'm looking for a software engineering internship or a junior backend role. Before moving into software, I worked in architecture, where I translated client requirements into technical documentation.
 
 [LinkedIn](https://www.linkedin.com/in/bartlomiej-milosz/)
+
+## Order & Inventory System
+
+A B2B API for managing orders across multiple warehouses. Confirming an order reserves stock. Fulfilling it records the goods leaving the warehouse. Cancelling a confirmed order releases the reservation.
+
+**When two orders each request the last 10 units**, a PostgreSQL row lock makes the second confirmation wait. Once the first transaction commits, the second gets an HTTP 409 and its order stays in draft. A Testcontainers integration test runs both transactions and checks which order was confirmed and how many units were reserved.
+
+**Project stack** · Java 25 · Spring Boot · Spring Data JPA · Spring Security · PostgreSQL · Flyway · Testcontainers · Docker Compose · GitHub Actions
+
+[Repository](https://github.com/bartlomiej-milosz/order-inventory-system) · [Concurrency test](https://github.com/bartlomiej-milosz/order-inventory-system/blob/2ed99aad2d60f1d6318d6aef5b1c02bfe51716eb/src/test/java/dev/bartlomiejmilosz/inventory/orders/OrderDraftTests.java#L628-L643) · [Run the Python demo](https://github.com/bartlomiej-milosz/order-inventory-system/blob/main/demo/README.md#start-here)

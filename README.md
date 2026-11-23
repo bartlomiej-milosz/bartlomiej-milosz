@@ -2,7 +2,7 @@
 
 I build backend APIs in Java and integrate local language models into Python developer tools. I'm looking for a software engineering internship or a junior developer role.
 
-I study computer science part-time at PJATK in Warsaw and expect to graduate in June 2028. Alongside my studies, I work as a residential architect.
+I study computer science part-time at PJATK in Warsaw and expect to graduate in June 2028. As a self-employed residential architect, I work directly with clients to define project scope and document design changes.
 
 ## [Order & Inventory System](https://github.com/bartlomiej-milosz/order-inventory-system)
 

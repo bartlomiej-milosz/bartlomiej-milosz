@@ -22,4 +22,8 @@ I used the order system as a test case. Asked which user runs the backend contai
 
 [Read the citation tests](https://github.com/bartlomiej-milosz/dev-assistant/blob/606627779939709319b1d50fb6f9b30a88a903d0/tests/test_answers.py#L11-L24) · [Compare text and vector search in the notebook](https://github.com/bartlomiej-milosz/dev-assistant/blob/606627779939709319b1d50fb6f9b30a88a903d0/notebooks/retrieval-evaluation.ipynb)
 
-[Connect on LinkedIn](https://www.linkedin.com/in/bartlomiej-milosz/)
+## Availability & contact
+
+I'm available to start immediately and prefer a hybrid schedule.
+
+[bartlomiej.milosz@gmail.com](mailto:bartlomiej.milosz@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bartlomiej-milosz/)

@@ -4,19 +4,19 @@ I build backend APIs in Java and integrate local language models into Python dev
 
 I study computer science part-time at PJATK in Warsaw and expect to graduate in June 2028. As a self-employed residential architect, I work directly with clients to define project scope and document design changes.
 
-## [Order & Inventory System](https://github.com/bartlomiej-milosz/order-inventory-system)
+## [Order &amp; Inventory System](https://github.com/bartlomiej-milosz/order-inventory-system)
 
-**Java · Spring Boot · PostgreSQL · Flyway · Testcontainers · Docker**
+**Java · Spring Boot · Spring Data JPA · Spring Security · PostgreSQL · Flyway · Testcontainers · Docker Compose**
 
-This API tracks orders and stock across warehouses, from reservation to shipment or cancellation.
+This API tracks orders and stock across warehouses, from reservation to shipment or cancellation. Spring Security restricts operations such as stock adjustments to administrators.
 
-Two orders each request the last 10 units in a warehouse. To prevent a double reservation, the API takes a pessimistic write lock on the stock row before checking availability. The first order reserves all 10 units. The second confirmation waits for the first transaction to commit, then returns `409 Conflict`. That order stays in draft.
+Two orders each request the last 10 units in a warehouse. To prevent a double reservation, the Spring Data JPA repository takes a pessimistic write lock on the stock row before checking availability. The first order reserves all 10 units. The second confirmation waits for the first transaction to commit, then returns `409 Conflict`. That order stays in draft.
 
 [Read the concurrency test](https://github.com/bartlomiej-milosz/order-inventory-system/blob/2ed99aad2d60f1d6318d6aef5b1c02bfe51716eb/src/test/java/dev/bartlomiejmilosz/inventory/orders/OrderDraftTests.java#L628-L643) · [See the locking query](https://github.com/bartlomiej-milosz/order-inventory-system/blob/2ed99aad2d60f1d6318d6aef5b1c02bfe51716eb/src/main/java/dev/bartlomiejmilosz/inventory/inventory/StockLevelRepository.java#L36-L43)
 
 ## [Dev Assistant](https://github.com/bartlomiej-milosz/dev-assistant)
 
-**Python · PostgreSQL · pgvector · Ollama**
+**Python · SQLAlchemy · PostgreSQL · pgvector · Ollama · Docker Compose**
 
 This CLI uses retrieval-augmented generation (RAG) to answer questions about code. It links each quote to the indexed commit and withholds the answer if the model invents a quote.
 

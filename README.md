@@ -1,12 +1,14 @@
 # Bartłomiej Miłosz
 
-I build backend APIs in Java and explore how to use language models in Python tools. I'm looking for a software engineering internship or a junior developer role.
+I build backend APIs in Java and integrate local language models into Python developer tools. I'm looking for a software engineering internship or a junior developer role.
 
 I study computer science part-time at PJATK in Warsaw and expect to graduate in June 2028. Alongside my studies, I work as a residential architect.
 
 ## [Order & Inventory System](https://github.com/bartlomiej-milosz/order-inventory-system)
 
 **Java · Spring Boot · PostgreSQL · Flyway · Testcontainers · Docker**
+
+This API tracks orders and stock across warehouses, from reservation to shipment or cancellation.
 
 Two orders each request the last 10 units in a warehouse. To prevent a double reservation, the API takes a pessimistic write lock on the stock row before checking availability. The first order reserves all 10 units. The second confirmation waits for the first transaction to commit, then returns `409 Conflict`. That order stays in draft.
 
@@ -16,16 +18,14 @@ Two orders each request the last 10 units in a warehouse. To prevent a double re
 
 **Python · PostgreSQL · pgvector · Ollama**
 
-This command-line tool answers questions about a GitHub repository using retrieval-augmented generation (RAG). It finds relevant passages at a specific commit and gives them to a local language model. Answers link to the quoted lines. If the model invents a quote, the CLI withholds the answer.
+This CLI uses retrieval-augmented generation (RAG) to answer questions about code. It links each quote to the indexed commit and withholds the answer if the model invents a quote.
 
-I used the order system as a test case. Asked which user runs the backend container, the tool found the Dockerfile and quoted [`USER 10001:10001`](https://github.com/bartlomiej-milosz/order-inventory-system/blob/2ed99aad2d60f1d6318d6aef5b1c02bfe51716eb/Dockerfile#L18).
-
-The CLI defaults to PostgreSQL full-text search. On six held-out questions about the order system, full-text search ranked the expected source location in the top three for all six. Vector search did so for four.
+On six held-out questions about the order system, PostgreSQL full-text search ranked the expected source in the top three for all six. Vector search did so for four. The CLI defaults to full-text search.
 
 [Read the citation tests](https://github.com/bartlomiej-milosz/dev-assistant/blob/606627779939709319b1d50fb6f9b30a88a903d0/tests/test_answers.py#L11-L24) · [Explore the retrieval experiment](https://github.com/bartlomiej-milosz/dev-assistant/blob/606627779939709319b1d50fb6f9b30a88a903d0/notebooks/retrieval-evaluation.ipynb)
 
 ## Availability & contact
 
-I'm available to start immediately and prefer a hybrid schedule.
+I'm available to start full-time immediately and prefer hybrid work in Warsaw.
 
 [bartlomiej.milosz@gmail.com](mailto:bartlomiej.milosz@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bartlomiej-milosz/)
